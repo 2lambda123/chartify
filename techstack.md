@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/chartify](https://github.com/2lambda123/chartify)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|12/29/23 <br/>Report generated|
+|27<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -161,9 +161,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (14)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -179,6 +179,7 @@ Full tech stack [here](/techstack.md)
 |[recommonmark](https://pypi.org/project/recommonmark)|v0.7.1|03/23/23|Pelle Sillren |MIT|N/A|
 |[selenium](https://pypi.org/project/selenium)|v4.0.0|03/23/23|Pelle Sillren |Apache-2.0|N/A|
 |[tornado](https://pypi.org/project/tornado)|v6.3.2|08/23/23|Pelle Sillren |Apache-2.0|[](https://github.com/advisories/GHSA-qppv-j76h-2rpx) (Moderate)|
+|[tox](https://pypi.org/project/tox)|v4.4.7|09/17/18|Chris |MIT|N/A|
 |[twine](https://pypi.org/project/twine)|v4.0.0|03/23/23|Pelle Sillren |Apache-2.0|N/A|
 |[watchdog](https://pypi.org/project/watchdog)|v3.0.0|03/23/23|Pelle Sillren |Apache-2.0|N/A|
 
