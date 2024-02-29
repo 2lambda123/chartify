@@ -3,15 +3,15 @@
 ## Tech Stack
 2lambda123/chartify is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Sphinx](http://sphinxsearch.com/) – Search Engines
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [IPython](http://ipython.org/index.html) – Shells
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [flake8](https://github.com/PyCQA/flake8) – Code Review
+- [Python](https://www.python.org) – Languages
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [flake8](https://github.com/PyCQA/flake8) – Code Review
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [IPython](http://ipython.org/index.html) – Shells
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [Sphinx](http://sphinxsearch.com/) – Search Engines
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/chartify is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png' alt='flake8'/> [flake8](https://github.com/PyCQA/flake8) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png' alt='flake8'/> [flake8](https://github.com/PyCQA/flake8) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1598/TtqoAo1V.png' alt='Sphinx'/> [Sphinx](http://sphinxsearch.com/) – Search Engines
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/chartify](https://github.com/2lambda123/chartify)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|27<br/>Tools used|01/05/24 <br/>Report generated|
+|27<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
